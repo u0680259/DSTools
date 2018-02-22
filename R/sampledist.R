@@ -4,7 +4,7 @@
 #' @param samples specify how many samples to run
 #' @param sample_size the number of obs in each sample
 #' @param mean population mean
-#' @param sd = population sd
+#' @param sd population sd
 #'
 #' @export
 #'
