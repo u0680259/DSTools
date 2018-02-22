@@ -17,6 +17,6 @@ sampledist <- function(samples = 50, sample_size = 100, mean = 0, sd = 1){
   return(samplemeans)
 }
 
-sampledist(100)
 
-roxygen2::roxygenise()
+
+

@@ -26,4 +26,4 @@ CIplot <- function(sample_size = 100){
   }}
 
 
-CI(1000)
+
